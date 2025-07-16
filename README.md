@@ -47,9 +47,9 @@ Welcome to my digital garden 🌿 — a place where code meets creativity. I'm N
 
 ## 📫 Let’s Connect
 
-- 📮 Email: [nizamdev@mail.com](mailto:nizamdev@mail.com)  
+- 📮 Email: [nizamdev@mail.com](mailto:yunizam2005@gmail.com)  
 - 🧠 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌐 Portfolio Site: [your-website.dev](https://your-website.dev)  
+- 🌐 Portfolio Site: [your-website.dev](https://nizamyu2005.github.io/Personal-Portfolio/)  
 
 ---
 
